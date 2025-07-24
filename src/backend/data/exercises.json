@@ -1,0 +1,337 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "name": "Push-ups",
+      "target_muscles": ["chest", "shoulders", "triceps"],
+      "equipment": "bodyweight",
+      "difficulty": "beginner",
+      "description": "Classic bodyweight exercise targeting chest, shoulders, and triceps. Start in plank position and lower body to ground.",
+      "instructions": [
+        "Start in a plank position with hands slightly wider than shoulders",
+        "Lower your body until chest nearly touches the floor",
+        "Push back up to starting position",
+        "Keep your body in a straight line throughout"
+      ],
+      "reps": "8-15",
+      "sets": "3"
+    },
+    {
+      "id": 2,
+      "name": "Squats",
+      "target_muscles": ["quadriceps", "glutes", "hamstrings"],
+      "equipment": "bodyweight",
+      "difficulty": "beginner",
+      "description": "Fundamental lower body exercise targeting quads, glutes, and hamstrings.",
+      "instructions": [
+        "Stand with feet shoulder-width apart",
+        "Lower your body as if sitting back into a chair",
+        "Keep chest up and knees tracking over toes",
+        "Return to standing position"
+      ],
+      "reps": "10-20",
+      "sets": "3"
+    },
+    {
+      "id": 3,
+      "name": "Pull-ups",
+      "target_muscles": ["lats", "biceps", "shoulders"],
+      "equipment": "pull-up bar",
+      "difficulty": "intermediate",
+      "description": "Upper body pulling exercise targeting lats, biceps, and rear deltoids.",
+      "instructions": [
+        "Hang from pull-up bar with palms facing away",
+        "Pull your body up until chin clears the bar",
+        "Lower yourself with control",
+        "Keep core engaged throughout"
+      ],
+      "reps": "5-12",
+      "sets": "3"
+    },
+    {
+      "id": 4,
+      "name": "Deadlifts",
+      "target_muscles": ["hamstrings", "glutes", "lower back", "traps"],
+      "equipment": "barbell",
+      "difficulty": "intermediate",
+      "description": "Compound movement targeting posterior chain muscles including hamstrings, glutes, and back.",
+      "instructions": [
+        "Stand with feet hip-width apart, bar over mid-foot",
+        "Hinge at hips and bend knees to grip bar",
+        "Drive through heels and extend hips to lift bar",
+        "Keep bar close to body throughout movement"
+      ],
+      "reps": "5-8",
+      "sets": "3"
+    },
+    {
+      "id": 5,
+      "name": "Planks",
+      "target_muscles": ["core", "shoulders"],
+      "equipment": "bodyweight",
+      "difficulty": "beginner",
+      "description": "Isometric core exercise that builds stability and strength in the entire core region.",
+      "instructions": [
+        "Start in push-up position on forearms",
+        "Keep body in straight line from head to heels",
+        "Engage core and breathe normally",
+        "Hold position for specified time"
+      ],
+      "reps": "30-60 seconds",
+      "sets": "3"
+    },
+    {
+      "id": 6,
+      "name": "Bench Press",
+      "target_muscles": ["chest", "shoulders", "triceps"],
+      "equipment": "barbell",
+      "difficulty": "intermediate",
+      "description": "Classic upper body pressing exercise for building chest, shoulder, and tricep strength.",
+      "instructions": [
+        "Lie on bench with feet flat on floor",
+        "Grip bar slightly wider than shoulders",
+        "Lower bar to chest with control",
+        "Press bar back to starting position"
+      ],
+      "reps": "6-12",
+      "sets": "3"
+    },
+    {
+      "id": 7,
+      "name": "Bicep Curls",
+      "target_muscles": ["biceps"],
+      "equipment": "dumbbells",
+      "difficulty": "beginner",
+      "description": "Isolation exercise specifically targeting the bicep muscles of the upper arm.",
+      "instructions": [
+        "Stand with dumbbells at sides, palms facing forward",
+        "Curl weights up by flexing biceps",
+        "Squeeze at the top of the movement",
+        "Lower with control to starting position"
+      ],
+      "reps": "10-15",
+      "sets": "3"
+    },
+    {
+      "id": 8,
+      "name": "Lunges",
+      "target_muscles": ["quadriceps", "glutes", "hamstrings"],
+      "equipment": "bodyweight",
+      "difficulty": "beginner",
+      "description": "Unilateral lower body exercise that targets quads, glutes, and improves balance.",
+      "instructions": [
+        "Step forward with one leg into lunge position",
+        "Lower hips until both knees are at 90 degrees",
+        "Push back to starting position",
+        "Alternate legs or complete all reps on one side"
+      ],
+      "reps": "10-15 each leg",
+      "sets": "3"
+    },
+    {
+      "id": 9,
+      "name": "Shoulder Press",
+      "target_muscles": ["shoulders", "triceps"],
+      "equipment": "dumbbells",
+      "difficulty": "beginner",
+      "description": "Overhead pressing movement that targets shoulder muscles and triceps.",
+      "instructions": [
+        "Stand with dumbbells at shoulder height",
+        "Press weights overhead until arms are extended",
+        "Lower with control back to shoulder height",
+        "Keep core engaged throughout"
+      ],
+      "reps": "8-12",
+      "sets": "3"
+    },
+    {
+      "id": 10,
+      "name": "Tricep Dips",
+      "target_muscles": ["triceps", "shoulders"],
+      "equipment": "bodyweight",
+      "difficulty": "beginner",
+      "description": "Bodyweight exercise targeting triceps using a chair, bench, or parallel bars.",
+      "instructions": [
+        "Sit on edge of chair with hands gripping edge",
+        "Slide forward and lower body by bending elbows",
+        "Push back up to starting position",
+        "Keep elbows close to body"
+      ],
+      "reps": "8-15",
+      "sets": "3"
+    },
+    {
+      "id": 11,
+      "name": "Russian Twists",
+      "target_muscles": ["core", "obliques"],
+      "equipment": "bodyweight",
+      "difficulty": "beginner",
+      "description": "Rotational core exercise that targets obliques and builds rotational strength.",
+      "instructions": [
+        "Sit with knees bent, feet slightly off ground",
+        "Lean back slightly and engage core",
+        "Rotate torso side to side",
+        "Touch ground on each side of hips"
+      ],
+      "reps": "20-30",
+      "sets": "3"
+    },
+    {
+      "id": 12,
+      "name": "Calf Raises",
+      "target_muscles": ["calves"],
+      "equipment": "bodyweight",
+      "difficulty": "beginner",
+      "description": "Simple exercise targeting the calf muscles of the lower leg.",
+      "instructions": [
+        "Stand with feet hip-width apart",
+        "Rise up onto balls of feet",
+        "Hold briefly at the top",
+        "Lower slowly back to starting position"
+      ],
+      "reps": "15-25",
+      "sets": "3"
+    },
+    {
+      "additional_exercises": [
+        {
+          "id": 13,
+          "name": "Bent-Over Rows",
+          "target_muscles": ["lats", "rhomboids", "traps", "biceps"],
+          "equipment": "barbell",
+          "difficulty": "intermediate",
+          "description": "Compound pulling exercise targeting the entire back musculature and biceps.",
+          "instructions": [
+            "Hold barbell with overhand grip, feet hip-width apart",
+            "Hinge at hips, keep back straight and core engaged",
+            "Pull bar to lower chest/upper abdomen",
+            "Squeeze shoulder blades together at top",
+            "Lower with control to starting position"
+          ],
+          "reps": "8-12",
+          "sets": "3"
+        },
+        {
+          "id": 14,
+          "name": "Mountain Climbers",
+          "target_muscles": ["core", "shoulders", "quadriceps"],
+          "equipment": "bodyweight",
+          "difficulty": "beginner",
+          "description": "Dynamic cardio exercise that targets core while providing cardiovascular benefits.",
+          "instructions": [
+            "Start in plank position with hands under shoulders",
+            "Bring right knee toward chest",
+            "Quickly switch legs, bringing left knee to chest",
+            "Continue alternating legs in running motion",
+            "Keep hips level and core engaged"
+          ],
+          "reps": "30-60 seconds",
+          "sets": "3"
+        },
+        {
+          "id": 15,
+          "name": "Overhead Tricep Extension",
+          "target_muscles": ["triceps"],
+          "equipment": "dumbbell",
+          "difficulty": "beginner",
+          "description": "Isolation exercise specifically targeting the tricep muscles with overhead movement.",
+          "instructions": [
+            "Hold one dumbbell with both hands overhead",
+            "Keep upper arms stationary and elbows close to head",
+            "Lower weight behind head by bending elbows",
+            "Extend elbows to return to starting position",
+            "Focus on squeezing triceps at the top"
+          ],
+          "reps": "10-15",
+          "sets": "3"
+        },
+        {
+          "id": 16,
+          "name": "Glute Bridges",
+          "target_muscles": ["glutes", "hamstrings", "core"],
+          "equipment": "bodyweight",
+          "difficulty": "beginner",
+          "description": "Isolation exercise targeting glutes and hamstrings while strengthening the posterior chain.",
+          "instructions": [
+            "Lie on back with knees bent, feet flat on floor",
+            "Squeeze glutes and push hips up toward ceiling",
+            "Create straight line from knees to shoulders",
+            "Hold briefly at top, squeezing glutes",
+            "Lower hips back to starting position"
+          ],
+          "reps": "12-20",
+          "sets": "3"
+        },
+        {
+          "id": 17,
+          "name": "Lat Pulldowns",
+          "target_muscles": ["lats", "rhomboids", "biceps"],
+          "equipment": "cable machine",
+          "difficulty": "intermediate",
+          "description": "Seated pulling exercise that targets the latissimus dorsi and upper back muscles.",
+          "instructions": [
+            "Sit at lat pulldown machine with thighs secured",
+            "Grip bar wider than shoulder width",
+            "Pull bar down to upper chest while leaning back slightly",
+            "Squeeze shoulder blades together",
+            "Slowly return bar to starting position"
+          ],
+          "reps": "8-12",
+          "sets": "3"
+        },
+        {
+          "id": 18,
+          "name": "Bulgarian Split Squats",
+          "target_muscles": ["quadriceps", "glutes", "hamstrings"],
+          "equipment": "bodyweight",
+          "difficulty": "intermediate",
+          "description": "Unilateral leg exercise that challenges balance while targeting the entire leg musculature.",
+          "instructions": [
+            "Stand 2-3 feet in front of bench or chair",
+            "Place top of rear foot on bench behind you",
+            "Lower into lunge position on front leg",
+            "Push through front heel to return to starting position",
+            "Complete all reps before switching legs"
+          ],
+          "reps": "8-12 each leg",
+          "sets": "3"
+        },
+        {
+          "id": 19,
+          "name": "Face Pulls",
+          "target_muscles": ["rear delts", "rhomboids", "traps"],
+          "equipment": "resistance band",
+          "difficulty": "beginner",
+          "description": "Pulling exercise that targets rear deltoids and upper back, great for posture improvement.",
+          "instructions": [
+            "Attach resistance band at chest height",
+            "Hold handles with arms extended forward",
+            "Pull handles toward face, elbows high",
+            "Squeeze shoulder blades together",
+            "Slowly return to starting position"
+          ],
+          "reps": "12-15",
+          "sets": "3"
+        },
+        {
+          "id": 20,
+          "name": "Wall Sits",
+          "target_muscles": ["quadriceps", "glutes"],
+          "equipment": "bodyweight",
+          "difficulty": "beginner",
+          "description": "Isometric exercise that builds endurance and strength in the quadriceps and glutes.",
+          "instructions": [
+            "Stand with back against wall, feet shoulder-width apart",
+            "Slide down wall until thighs parallel to floor",
+            "Keep knees at 90-degree angle",
+            "Hold position while breathing normally",
+            "Focus on keeping weight in heels"
+          ],
+          "reps": "30-60 seconds",
+          "sets": "3"
+        }
+      ]
+    }
+  ]
+}
+

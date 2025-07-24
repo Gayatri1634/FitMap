@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Your Fitness Plan</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h2>Your Personalized Recommendation</h2>
+  <div id="result">Loading...</div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const message = localStorage.getItem("recommendation");
+      document.getElementById("result").innerText = message || "No recommendation available.";
+    });
+  </script>
+</body>
+</html>
